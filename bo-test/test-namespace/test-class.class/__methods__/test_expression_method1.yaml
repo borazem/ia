@@ -17,5 +17,5 @@ object:
           field: Vm-description
           value: test1
         :token: 1
-    relative_path: test-namespace/test-class/test_expression_method
+    relative_path: test-namespace/test-class/test_expression_method-1
   inputs: []
