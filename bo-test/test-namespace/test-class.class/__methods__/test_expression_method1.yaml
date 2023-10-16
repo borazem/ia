@@ -3,8 +3,8 @@ object_type: method
 version: 1.0
 object:
   attributes:
-    name: test_expression_method
-    display_name: test-expression-method
+    name: test_expression_method-1
+    display_name: test-expression-method-1
     description: 
     scope: instance
     language: ruby
@@ -15,7 +15,7 @@ object:
       :expression:
         "=":
           field: Vm-description
-          value: test
+          value: test1
         :token: 1
     relative_path: test-namespace/test-class/test_expression_method
   inputs: []
