@@ -1,0 +1,15 @@
+---
+object_type: domain
+version: 1.0
+object:
+  attributes:
+    name: bo-test
+    description: BO exploration and test domain
+    display_name: 
+    priority: 1
+    enabled: true
+    tenant_id: 40000000000001
+    source: user
+    top_level_namespace: 
+    ancestry: 
+    relative_path: 

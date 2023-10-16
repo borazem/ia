@@ -1,0 +1,12 @@
+---
+object_type: namespace
+version: 1.0
+object:
+  attributes:
+    name: Control
+    description: 
+    display_name: 
+    priority: 
+    enabled: 
+    ancestry: '40000000000001'
+    relative_path: Control

@@ -1,0 +1,21 @@
+---
+object_type: method
+version: 1.0
+object:
+  attributes:
+    name: test_expression_method
+    display_name: test-expression-method
+    description: 
+    scope: instance
+    language: ruby
+    location: expression
+    data: |
+      ---
+      :db: Vm
+      :expression:
+        "=":
+          field: Vm-description
+          value: test
+        :token: 1
+    relative_path: test-namespace/test-class/test_expression_method
+  inputs: []

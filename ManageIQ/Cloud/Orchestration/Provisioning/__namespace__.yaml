@@ -1,0 +1,12 @@
+---
+object_type: namespace
+version: 1.0
+object:
+  attributes:
+    name: Provisioning
+    description: 
+    display_name: 
+    priority: 
+    enabled: 
+    ancestry: 40000000000001/40000000000086/40000000000087
+    relative_path: Cloud/Orchestration/Provisioning

@@ -1,0 +1,12 @@
+---
+object_type: namespace
+version: 1.0
+object:
+  attributes:
+    name: StateMachines
+    description: 
+    display_name: 
+    priority: 
+    enabled: 
+    ancestry: 40000000000001/40000000000107/40000000000115/40000000000119
+    relative_path: Infrastructure/VM/Provisioning/StateMachines

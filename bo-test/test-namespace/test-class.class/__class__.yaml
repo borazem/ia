@@ -1,0 +1,14 @@
+---
+object_type: class
+version: 1.0
+object:
+  attributes:
+    description: test-class
+    display_name: test-class
+    name: test-class
+    type: 
+    inherits: 
+    visibility: 
+    owner: 
+    relative_path: test-namespace/test-class
+  schema: []

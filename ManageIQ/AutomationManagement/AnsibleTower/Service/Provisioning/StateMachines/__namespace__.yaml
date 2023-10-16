@@ -1,0 +1,12 @@
+---
+object_type: namespace
+version: 1.0
+object:
+  attributes:
+    name: StateMachines
+    description: 
+    display_name: 
+    priority: 
+    enabled: 
+    ancestry: 40000000000001/40000000000079/40000000000080/40000000000083/40000000000084
+    relative_path: AutomationManagement/AnsibleTower/Service/Provisioning/StateMachines
